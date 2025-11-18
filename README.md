@@ -9,9 +9,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<p align="center">
-As an aspiring Full Stack Developer, I specialize in building scalable web applications using modern frontend and backend technologies. I'm passionate about combining clean design with robust logic to create user-friendly solutions. My journey involves continuous learning — currently diving deep into **Java**, **Spring Boot**, **React**, and databases to become industry-ready. I'm also exploring real-world AI integrations and love contributing to meaningful tech projects.
-</p>
+As an aspiring Full Stack Developer, I specialize in building scalable web applications using modern frontend and backend technologies. I'm passionate about combining clean design with robust logic to create user-friendly solutions. My journey involves continuous learning — currently diving deep into **Java, Spring Boot, React, and databases** to become industry-ready. I'm also exploring real-world AI integrations and love contributing to meaningful tech projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="Developer Funny" />
@@ -19,7 +17,13 @@ As an aspiring Full Stack Developer, I specialize in building scalable web appli
 
 ---
 
-- 🔭 I’m currently working on **AI Based Inscription Translation** - 🌱 I’m currently learning **Java, HTML, CSS, React.js, Spring Boot, MongoDB, and DSA** - 👯 I’m looking to collaborate on **Full-stack based projects** - 🤝 I’m looking to discuss and refine **CoinVista (Real-Time Cryptocurrency Tracker)** - 💬 Ask me about **OS, DBMS, HTML, CSS, React.js, Java backend** - 📫 Reach me at **karthikkumarsvwork@gmail.com** - ⚡ Fun fact: **I think I’m funny… until my code doesn’t compile 😄**
+- 🔭 I’m currently working on **AI Based Inscription Translation**
+- 🌱 I’m currently learning **Java, HTML, CSS, React.js, Spring Boot, MongoDB, and DSA**
+- 👯 I’m looking to collaborate on **Full-stack based projects**
+- 🤝 I’m looking to discuss and refine **CoinVista (Real-Time Cryptocurrency Tracker)**
+- 💬 Ask me about **OS, DBMS, HTML, CSS, React.js, Java backend**
+- 📫 Reach me at **karthikkumarsvwork@gmail.com**
+- ⚡ Fun fact: **I think I’m funny… until my code doesn’t compile 😄**
 
 ---
 
