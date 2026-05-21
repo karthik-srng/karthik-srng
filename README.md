@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Karthik Kumar S V</h1>
 
 <h3 align="center">
