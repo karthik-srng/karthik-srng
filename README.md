@@ -2,149 +2,169 @@
 <h1 align="center">Hi 👋, I'm Karthik Kumar S V</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • React Native Developer
+Full Stack Developer • React Native Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+Native+Developer;Building+Impactful+Applications;Competitive+Programmer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
+
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="320"/>
+</p>
+
+<div align="center">
+
+### Building modern applications with creativity, logic, and clean design
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Developer Journey
+
+- 🎓 CSE Student at **VVCE Mysuru**
+- 💼 Mobile App Development Intern at **Rankbook Solutions**
+- 🌱 Exploring **Spring Boot, React.js & AI Applications**
+- 🚀 Passionate about scalable and impactful applications
+- ⚡ Focused on modern development and clean UI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Tech Universe
+
+- 📱 Mobile App Development
+- 🌐 Full Stack Applications
+- 🤖 AI & Intelligent Systems
+- 🎨 Modern UI/UX Design
+- ☁️ Cloud & Scalable Systems
+- ⚡ Problem Solving & Innovation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+💬 Ask me about **React Native, Java, REST APIs, Full Stack Development & AI Projects**
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Applications;Learning+Something+New+Everyday;Building+With+Code+%26+Creativity" />
+
+<br><br>
+
+☕ <i>"My code works perfectly... until someone watches me debug."</i>
+
+</div>
+
+---
+
+---
+
+
+
+# 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,react,js,ts,html,css,tailwind,nodejs,express,mysql,mongodb,firebase,django,git,github,vscode" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">CoinVista</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+Real-time cryptocurrency tracker using CoinGecko API with live market analysis and dynamic UI.
 </p>
 
----
+</td>
 
-# 💫 About Me
+<td width="50%">
 
-```yaml
-Name: Karthik Kumar S V
-Location: Mysuru, India
-Education: B.E CSE @ VVCE Mysuru
-CGPA: 8.94
-Current Role: Mobile App Development Intern @ Rankbook Solutions
-````
-
-💡 Passionate about building scalable applications and solving real-world problems with modern technologies.
-
-🌱 Currently learning:
-
-* Spring Boot
-* React.js
-* AI/ML Applications
-* Full Stack Development
-* System Design
-
-⚡ I enjoy:
-
-* Building modern UI/UX
-* Competitive Programming
-* Open Source
-* Exploring Cloud & AI Technologies
-
----
-
-# 🚀 Tech Stack
+<h3 align="center">Lipi-Gnani</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,react,js,ts,html,css,tailwind,nodejs,express,mysql,postgres,mongodb,git,github,firebase,django,python,vscode&perline=9" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthik-s-v&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-s-v&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-s-v&theme=tokyonight&hide_border=true"/>
+AI-powered inscription translation system using NLP techniques for ancient text analysis.
 </p>
 
----
+</td>
+</tr>
 
-# 🛠️ Featured Projects
+<tr>
+<td width="50%">
 
-## 🪙 CoinVista – Real-Time Cryptocurrency Tracker
+<h3 align="center">HRMS Mobile App</h3>
 
-📌 Real-time cryptocurrency dashboard using CoinGecko API.
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
+</p>
 
-✨ Features:
+<p align="center">
+React Native Expo application for employee attendance and leave management.
+</p>
 
-* Live Crypto Prices
-* Market Trends
-* Interactive Charts
-* Responsive UI
-* Netlify Deployment
+</td>
 
----
+<td width="50%">
 
-## 🧠 Halmidi – AI-Based Inscription Translation
+<h3 align="center">Placement Portal</h3>
 
-📌 AI-powered system to translate ancient inscriptions using NLP.
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+</p>
 
-✨ Features:
+<p align="center">
+Django + PostgreSQL platform for managing recruitment and placement processes.
+</p>
 
-* Ancient Text Processing
-* Intelligent Mapping Algorithms
-* Translation Accuracy Improvements
-* Research Publication
-
----
-
-## 🎓 College Placement Portal
-
-📌 Student recruitment management platform using Django + PostgreSQL.
-
-✨ Features:
-
-* Student Profile Management
-* Secure File Uploads
-* Advanced Search
-* Export Features
-
----
-
-## 📱 HRMS Mobile Application
-
-📌 Employee management application built using React Native Expo.
-
-✨ Features:
-
-* Attendance Management
-* Leave Tracking
-* Profile Management
-* REST API Integration
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Zone Level Participant – TCS IT Quiz 2025
+🏅 Zone Level Participant — TCS IT Quiz 2025
 
-🏅 Special Recognition – AI Based Inscription Translation
+🏅 Special Recognition — AI Based Inscription Translation
 
 📄 Published Research Paper:
 **“AI-Powered Ancient Inscription Analysis and Translation (Halmidi)”**
 
-🎯 Coordinator – Google Cloud Community Day 2025
+🚀 Core Organizer & Mentor — DEVCOM WEEK 2025
 
-🚀 Core Organizer & Mentor – DEVCOM WEEK 2025
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-s-v&theme=tokyo-night&hide_border=true"/>
-</p>
+☁️ Coordinator — Google Cloud Community Day 2025
 
 ---
 
@@ -152,57 +172,35 @@ Current Role: Mobile App Development Intern @ Rankbook Solutions
 
 <p align="center">
 
-<a href="https://github.com/karthik-s-v">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://github.com/karthik-srng" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-<a href="https://linkedin.com/in/karthik-kumar-s-v">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://linkedin.com/in/karthik-kumar-s-v" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
 <a href="mailto:karthikkumarsvwork@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+<a href="https://karthii-portfolio.netlify.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=netlify" width="55" />
 </a>
 
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 📫 Contact Me
 
-<p align="center">
+📧 karthikkumarsvwork@gmail.com
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karthik-s-v/karthik-s-v/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# ⚡ Fun Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+🌍 Bengaluru, Karnataka, India
 
 ---
 
 <p align="center">
-
-✨ “Turning ideas into impactful digital experiences.” ✨
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
 </p>
-```
+
