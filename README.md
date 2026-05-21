@@ -1,16 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Karthik Kumar S V</h1>
 
-<h3 align="center">
-Full Stack Developer • React Native Developer • AI Enthusiast
-</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
-
----
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Building+Modern+Applications;AI+%26+Tech+Enthusiast+🚀" /> </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
@@ -73,17 +68,48 @@ Full Stack Developer • React Native Developer • AI Enthusiast
 
 ---
 
----
-
-
-
 # 🛠️ Languages and Tools
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java,c,react,js,ts,html,css,tailwind,nodejs,express,mysql,mongodb,firebase,django,git,github,vscode" />
+<td align="center" width="33%">
 
-</p>
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="140"/>
+
+### 🌐 Frontend
+
+HTML • CSS • JavaScript  
+React • TypeScript • Tailwind
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140"/>
+
+### ⚙️ Backend
+
+Node.js • Express  
+Django • Firebase  
+MySQL • MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="140"/>
+
+### 🛠️ Tools
+
+Java • C • Git  
+GitHub • VS Code  
+REST APIs
+
+</td>
+
+</tr>
+</table>
 
 ---
 
